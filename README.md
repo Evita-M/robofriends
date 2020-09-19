@@ -1,4 +1,4 @@
-TECHNOLOGIES USED
+<strong> TECHNOLOGIES USED </strong>
 
 Front-End: HTML5,CSS3, React.js
 
