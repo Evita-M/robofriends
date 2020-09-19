@@ -1,5 +1,5 @@
 <h1><strong>TECHNOLOGIES USED</strong></h1>
-Front-End: HTML5,CSS3, React.js
-React Packages: Create React App, Tachyons,APIs, RoboHash,JSONPlaceholder
+<p>Front-End: HTML5,CSS3, React.js</p><br>
+<p>React Packages: Create React App, Tachyons,APIs, RoboHash,JSONPlaceholder</p>
 
-<img src="./public/printscreen.png">
+![Screenshot](./public/screenshot.png)
